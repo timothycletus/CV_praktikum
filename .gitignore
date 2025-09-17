@@ -1,0 +1,11 @@
+# Ignore Visual Studio / VS Code cache
+.vs/
+.vscode/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+.ipynb_checkpoints/
+*.log

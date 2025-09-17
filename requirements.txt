@@ -1,0 +1,12 @@
+torch
+torchaudio
+transformers
+huggingface-hub
+numpy
+PyYAML
+Pillow>=6.2.2
+sentence-transformers==2.3.0
+gradio==5.44.1
+openai-whisper
+soundfile
+#gradio_imageslider==0.0.18
