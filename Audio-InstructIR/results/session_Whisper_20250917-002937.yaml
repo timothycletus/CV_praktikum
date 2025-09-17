@@ -1,0 +1,7 @@
+asr_model: Whisper
+audio_file: C:\Users\Timothy\AppData\Local\Temp\gradio\5944c2f50918ec6154215c699f8fe646d029a6d41f235f19497cea7c9dfa3993\audio.wav
+input_image: input.png
+output_image: output_Whisper_20250917-002937.png
+prompt: ' Increase the brightness.'
+session: cf11bbb1
+timestamp: 20250917-002937

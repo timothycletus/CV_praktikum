@@ -1,0 +1,7 @@
+asr_model: Whisper
+audio_file: C:\Users\Timothy\AppData\Local\Temp\gradio\f48d263a230ae159767133a81e2f1f277d513cc2aba97693d0f2de25147432f4\audio.wav
+input_image: input.png
+output_image: output_Whisper_20250911-003620.png
+prompt: ' Remove that in.'
+session: 3ab249a2
+timestamp: 20250911-003620

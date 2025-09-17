@@ -1,0 +1,7 @@
+asr_model: Whisper
+audio_file: C:\Users\Timothy\AppData\Local\Temp\gradio\6629d5ce72f88cddadb02570824637e5b7f3fa6600aa4e41e6b94b488a6e83bb\audio.wav
+input_image: input.png
+output_image: output_Whisper_20250917-003009.png
+prompt: ' Make the image less blurry.'
+session: c058b9b6
+timestamp: 20250917-003009

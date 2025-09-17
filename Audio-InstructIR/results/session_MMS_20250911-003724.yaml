@@ -1,0 +1,7 @@
+asr_model: MMS
+audio_file: C:\Users\Timothy\AppData\Local\Temp\gradio\2231164c7b2da09c778912bf7208d4b5ab30e9aeb2c25d20d6b22e4ca5057d1e\audio.wav
+input_image: input.png
+output_image: output_MMS_20250911-003724.png
+prompt: remove their noise from the mis
+session: c07f8d8e
+timestamp: 20250911-003724
